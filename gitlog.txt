@@ -1,0 +1,23 @@
+commit 23c7fd82e20a7e9c120db8983ded4996fa9773be
+Author: AichaNT <aicha.thorman@gmail.com>
+Date:   Wed Feb 14 13:20:01 2024 +0100
+
+    Plz work
+
+commit 1527bdd9167938ee555e3013c4aa689432d4b316
+Author: Karima-m <karima.02@outlook.dk>
+Date:   Wed Feb 14 13:17:15 2024 +0100
+
+    Jeg har tilføjet mit navn
+
+commit 0c05239e28b3043a99e0b26faae5f29332f8ba05
+Author: feliciavs24 <feso@itu.dk>
+Date:   Wed Feb 14 13:12:10 2024 +0100
+
+    added felicia name to members
+
+commit 365ae95063246c64b8492fd5d7606b281e8b3ff6
+Author: feliciavs24 <156909093+feliciavs24@users.noreply.github.com>
+Date:   Wed Feb 14 13:08:31 2024 +0100
+
+    Create members.md
