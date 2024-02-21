@@ -23,6 +23,11 @@ Melanomas (MEL) are somewhat related to nevi. Nevi (NEV) are benign growths of m
 
 
 ## An exploration of our data: Image contents and data summary [1]
+The data set includes some images of low quality. This means that some of the images either were not included or were segmented in a non-accurate way. An example of a picture of too low quality is PAT_782_1494_418. This is a picture of the top of a head but because the lesion is spread out and not centered around one place the bad image quality makes it impossible to annotate the area precisely. 
+
+The CSV file contains information about the patients in the images. For all patients there is available data categorized in the columns; patient id, lesion id, age, region, diagnostic, itch, grew, hurt, changed, bleed, elevation, img id and biopsied. Moreover, the meta data includes personal information such as the background of the patient's parents, cancer history, and habits regarding drinking and smoking. This does not apply for all patients since additional data is missing for around 35 pct. (804) of patients. 
+
+Looking further into the data we see that there is a wide age range amongst the patients reaching from 6 to 94 years old, which is a positive because it makes the data more representative. Of the 1494 patients that have further information provided about them 52.1% (779 people) of them have a history of cancer and 45.6% (681 people) have a history of skin cancer.  
 
 
 
