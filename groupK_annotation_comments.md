@@ -7,6 +7,7 @@ k3
 
 
 k4
+At the beginning it was decided to annotate including the inflamed parts (often red skin) that weren't specifically the mole however in later photos it wasn't possible to also include inflamed skin (since almost the entire photo included inflamed areas) and therefor there seems to be a bit of inconsitency in the photos annotated. 
 
 
 k5
