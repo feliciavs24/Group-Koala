@@ -8,6 +8,10 @@ The skin is divided into the epidermis, the dermis and the subcutis. The epiderm
 
 
 ## Skin lesions, etiology and relations [4]
+The dataset contains six types of lesions or tumors. Tumors of the skin can be divided into benign and premalignant skin lesions, and malignant epidermal tumors. In the first category we find seborrheic keratosis (SEK), a skin lesion mostly found in middle-aged or older individuals. They are round, coinlike plaques that vary in diameter and have a “stuck-on” appearance. They are occasionally removed due to visual similarities with melanoma. They are also characteristically keratinized, with keratin-filled cysts on the surface.
+
+Also in the first category are actinic keratoses (ACK), premalignant lesions caused by UV-induced DNA-damage. They are most common in fair-skinned individuals. They feature hyper-keratinization, meaning an excessive hardening of the skin, and they may progress to squamous cell carcinoma, although only 0.1-2.6% of cases do this per year – most regress or remain stable, but are often treated for cosmetic or preventative reasons. They are usually less than 1 cm in diameter, tan-brown or red, and rough to the touch.
+
 
 
 
