@@ -12,6 +12,13 @@ The dataset contains six types of lesions or tumors. Tumors of the skin can be d
 
 Also in the first category are actinic keratoses (ACK), premalignant lesions caused by UV-induced DNA-damage. They are most common in fair-skinned individuals. They feature hyper-keratinization, meaning an excessive hardening of the skin, and they may progress to squamous cell carcinoma, although only 0.1-2.6% of cases do this per year – most regress or remain stable, but are often treated for cosmetic or preventative reasons. They are usually less than 1 cm in diameter, tan-brown or red, and rough to the touch.
 
+The malignant epithelial tumors include basal cell carcinoma, squamous cell carcinoma and melanoma. One thing they all have in common is an origin in UV-induced DNA-damage resulting in unchecked cell division and growth. Melanoma originates from melanocytes, basal cell carcinoma originates from the skin stem cells, and squamous cell carcinoma originates from the skin cells (stratified squamous epithelial cells) in the superficial layers of the epidermis.
+
+Basal cell carcinomas (BCC) appear as pearly papules, often feature prominent, dilated subdermal blood vessels, and some may contain melanin and thus look like melanomas or nevi.
+
+Squamous cell carcinoma (SCC) is more common in older individuals, and more often men than women. They appear as sharply defined red, scaly plaques. More advanced cases may bleed and look nodular. They rarely metastasize and only after a very long time.
+
+Melanomas (MEL) are somewhat related to nevi. Nevi (NEV) are benign growths of melanocytes existing at birth and may vary in appearance either having a mostly smooth, tan-to-brown surface or a raised appearance with variable pigmentation and slightly irregular borders. These can, but are unlikely to, develop into melanomas. Unlike nevi, melanomas often exhibit striking variations in pigmentation, including shades of black, brown, red, dark blue and gray. The borders are irregular and often “notched”. Unlike the other malignant lesions, melanoma is highly invasive and regularly metastasizes.
 
 
 
