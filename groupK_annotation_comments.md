@@ -3,7 +3,6 @@ Some photos clearly displayed distinct and evident lesions, but in others, the q
 
 k2
 
-
 k3
 
 

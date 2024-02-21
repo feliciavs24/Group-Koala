@@ -1,0 +1,4 @@
+
+
+k2 summary:
+The data set includes some images of low quality. This means that some of the images either were not included or were segmented in a non-accurate way. An example of a picture of too low quality is PAT_782_1494_418. Moreover, there is a CSV file including additional information about the patients in the images. This contains information about the patients smoking/drinking habits, ethnicity, age, whether the leisure is growing/itching/hurting/bleeding, the patients cancer history and much more. In detecting skin cancer for example the parameters about growth, itching and previous skin cancer history could all be relevant in detecting whether the patients skin leisure could be cancerous. 
