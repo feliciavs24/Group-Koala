@@ -29,6 +29,7 @@ The CSV file contains information about the patients in the images. For all pati
 
 Looking further into the data we see that there is a wide age range amongst the patients reaching from 6 to 94 years old, which is a positive because it makes the data more representative. Of the 1494 patients that have further information provided about them 52.1% (779 people) of them have a history of cancer and 45.6% (681 people) have a history of skin cancer.  
 
+One of the columns of clinical features shows the Fitzpatric skin type. The Fitzpatric scale is a numerical classification schema for human skin types ranging from I to VI with I belonging to persons with very light skin and VI being for dark skin. In the data set it appears that out of the patients with Fitzpatric skin type available 95.1 pct (1421 people). are on the scale from I - III while only 4.89 pct. (73 people) are on the scale from IV - VI.  The lack of diversity in skin types can potentially prove to be an issue when designing a model as the model will probably have a harder time detecting skin cancer for darker skin types. This is not ideal or representative for the population and would result in a model that works better on lighter skin types when we work on unknown data sets. 
 
 
 ## SOURCES
