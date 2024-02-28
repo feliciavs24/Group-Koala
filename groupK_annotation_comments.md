@@ -5,10 +5,10 @@ k2
 One picture was skipped due to the low quality which meant that the lesion blended in with the rest of the skin which on this case was the top of a head. 
 
 k3
-
+Some lesions were so spread out and appeared almost like a rash which made it difficult to define the edges of the lesion. So our group made the decision to include the parts where the rash was the worst and exclude the rest in our annotations.
 
 k4
-At the beginning it was decided to annotate including the inflamed parts (often red skin) that weren't specifically the mole however in later photos it wasn't possible to also include inflamed skin (since almost the entire photo included inflamed areas) and therefor there seems to be a bit of inconsitency in the photos annotated. 
+At the beginning it was decided to annotate including the inflamed parts (often red skin) that weren't specifically the mole however in later photos it wasn't possible to also include inflamed skin (since almost the entire photo included inflamed areas) and therefore there seems to be a bit of inconsitency in the photos annotated. 
 
 
 k5
